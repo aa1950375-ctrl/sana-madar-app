@@ -1,0 +1,21 @@
+﻿{
+  "name": "مدار | MADAR",
+  "short_name": "مدار",
+  "description": "المنصة الإسلامية التفاعلية الحية وصانع محتوى الريلز القرآني والقصصي",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#05080b",
+  "theme_color": "#10b981",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
